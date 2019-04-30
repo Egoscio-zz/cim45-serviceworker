@@ -1,0 +1,41 @@
+body,
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header h1 {
+    text-align: center;
+}
+
+header,
+main,
+footer {
+    background-color: rgba(100, 100, 100, 0.25);
+}
+
+header {
+    padding: 1em;
+}
+
+main {
+    width: 90%;
+    margin: 2em auto;
+}
+
+footer {
+    padding: 0.25em;
+}
+
+footer p {
+    margin-left: 1em;
+}
